@@ -1,0 +1,8 @@
+# Ignore CSV files and txt files
+data
+
+# Ignore temporary and cache files
+*.log
+*.tmp
+__pycache__/
+*.pyc
